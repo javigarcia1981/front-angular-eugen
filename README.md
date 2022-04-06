@@ -61,4 +61,4 @@ Se podrá eliminar empleados que no pertenezcan al departamento de administraci�
 
 ## ¿Qué se entrega?
 
-Puedes entrar un zip o un fork del proyecto
+Puedes entragar un zip o un fork del proyecto
