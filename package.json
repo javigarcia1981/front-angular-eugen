@@ -1,0 +1,23 @@
+{
+  "name": "front-angular-eugen",
+  "version": "1.0.0",
+  "description": "Prueba técnica front Eugen",
+  "main": "index.js",
+  "scripts": {
+    "ng": "ng",
+    "set-node": "sh setNode.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javigarcia1981/front-angular-eugen.git"
+  },
+  "author": "Eugen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javigarcia1981/front-angular-eugen/issues"
+  },
+  "homepage": "https://github.com/javigarcia1981/front-angular-eugen#readme",
+  "devDependencies": {
+    "@angular/cli": "^13.3.11"
+  }
+}
