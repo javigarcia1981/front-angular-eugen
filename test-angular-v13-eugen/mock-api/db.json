@@ -7,7 +7,8 @@
       "secondLastname": "Second lastname 1",
       "email": "email1@email.com",
       "birthdate": "1981/01/17",
-      "department": "administracion"
+      "department": "administracion",
+      "dni": "123456A"
     },
     {
       "id": "2",
@@ -16,7 +17,8 @@
       "secondLastname": "Second lastname 2",
       "email": "email2@email.com",
       "birthdate": "1991/01/17",
-      "department": "administracion"
+      "department": "administracion",
+      "dni": "123456B"
     },
     {
       "id": "3",
@@ -25,7 +27,8 @@
       "secondLastname": "Second lastname 3",
       "email": "email3@email.com",
       "birthdate": "1971/01/17",
-      "department": "tienda"
+      "department": "tienda",
+      "dni": "123456C"
     },
     {
       "id": "4",
@@ -34,7 +37,8 @@
       "secondLastname": "Second lastname 4",
       "email": "email4@email.com",
       "birthdate": "1961/01/17",
-      "department": "tienda"
+      "department": "tienda",
+      "dni": "123456D"
     }
   ]
 }
